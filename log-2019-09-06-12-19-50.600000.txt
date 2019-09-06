@@ -1,0 +1,109 @@
+started parsing sheet @2019-09-06-12-19-50.601000
+finsihed parsing sheet @2019-09-06-12-19-50.613000
+started creating  patients-files dictyionary @2019-09-06-12-19-50.613000
+Finished creating  patients-files dictyionary @2019-09-06-12-19-50.637000
+started creating  dicom-countor  dictyionary per patient  @2019-09-06-12-19-50.637000
+started patient SCD0000501  @2019-09-06-12-19-50.637000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-50.776000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-50.826000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-50.874000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-50.925000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-50.975000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.017000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.065000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.117000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.170000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.223000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.274000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.328000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.385000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.442000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.500000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.554000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.606000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.662000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.718000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.768000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.827000
+Finsihed and Saved image for patient SCD0000501  @2019-09-06-12-19-51.885000
+started patient SCD0000401  @2019-09-06-12-19-51.885000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-51.941000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-51.998000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.056000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.111000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.161000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.210000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.259000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.308000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.358000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.409000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.465000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.516000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.567000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.616000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.670000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.724000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.788000
+Finsihed and Saved image for patient SCD0000401  @2019-09-06-12-19-52.857000
+started patient SCD0000101  @2019-09-06-12-19-52.857000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-52.911000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-52.967000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.024000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.076000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.121000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.166000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.212000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.258000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.304000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.348000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.393000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.440000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.488000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.536000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.583000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.632000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.680000
+Finsihed and Saved image for patient SCD0000101  @2019-09-06-12-19-53.729000
+started patient SCD0000301  @2019-09-06-12-19-53.729000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-53.782000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-53.840000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-53.895000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-53.950000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.004000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.067000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.123000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.177000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.231000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.285000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.339000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.396000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.457000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.512000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.567000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.622000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.678000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.735000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.791000
+Finsihed and Saved image for patient SCD0000301  @2019-09-06-12-19-54.854000
+started patient SCD0000201  @2019-09-06-12-19-54.854000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-54.907000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-54.957000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.007000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.059000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.110000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.162000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.214000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.265000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.317000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.369000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.427000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.483000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.534000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.586000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.639000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.691000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.746000
+Finsihed and Saved image for patient SCD0000201  @2019-09-06-12-19-55.801000
+Finsished creating  dicom-countor  dictyionary per patient  @2019-09-06-12-19-55.801000
+started creating  batches  @2019-09-06-12-19-55.801000
+Finsished creating  batches  @2019-09-06-12-19-55.847000
